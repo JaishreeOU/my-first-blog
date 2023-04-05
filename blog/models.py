@@ -1,5 +1,5 @@
 
-# Create your models here.
+# Create your models here. jr
 from django.conf import settings
 from django.db import models
 from django.utils import timezone
